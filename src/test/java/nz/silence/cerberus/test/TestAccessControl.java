@@ -20,7 +20,7 @@ import nz.silence.cerberus.control.SimpleAccessControl;
 import nz.silence.cerberus.core.Principal;
 import nz.silence.cerberus.principal.SimplePrincipal;
 
-class TestAccessControl {
+public class TestAccessControl {
 
 	@Test
 	public void testSimpleInit() {

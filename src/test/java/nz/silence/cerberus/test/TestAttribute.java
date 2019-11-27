@@ -9,7 +9,7 @@ import nz.silence.cerberus.attribute.GroupAttribute;
 import nz.silence.cerberus.attribute.NationalityAttribute;
 import nz.silence.cerberus.core.Attribute;
 
-class TestAttribute {
+public class TestAttribute {
 
 	@Test
 	public void testGroupAttributeEquals() {
